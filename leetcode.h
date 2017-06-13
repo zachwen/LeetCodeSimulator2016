@@ -14,6 +14,8 @@
 #include <set>
 #include <map>
 #include <algorithm>
+#include <list>
+#include <assert.h>
 
 using namespace std;
 
